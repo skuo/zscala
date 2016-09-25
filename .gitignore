@@ -11,6 +11,7 @@ target
 .settings
 .idea
 .gradle
+.cache-main
 
 /bin/
 /target/
