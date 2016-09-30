@@ -6,11 +6,9 @@
 workspace.xml
 target
 .classpath
-.project
 .pydevproject
 .settings
 .idea
-.gradle
 .cache-main
 
 /bin/
