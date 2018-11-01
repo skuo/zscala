@@ -13,4 +13,5 @@ target
 
 /bin/
 /target/
+/project/
 /.worksheet/
